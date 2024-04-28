@@ -1,7 +1,7 @@
 name: back_btn_listener
 description: "This is plugin that listen to back btn with accessibility service"
-version: 1.0.0
-homepage:
+version: 1.0.1
+homepage: https://github.com/ImanGhasemiArani/flutter_plugin_back_btn_listener.git
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
